@@ -15,7 +15,4 @@ The server receives text input (Darija / Arabic dialect), processes it using a t
 - Works with the frontend here:  
   👉 https://github.com/Ynsaid/Darija_Sentiment_Analysis_Frontend
 
----
-
-## 🧩 Project Structure
 
