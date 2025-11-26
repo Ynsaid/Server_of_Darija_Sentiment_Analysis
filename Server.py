@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 CORS(app, origins=[
     "https://darija-sentiment-analysis-frontend-1.onrender.com", 
-    "https://darija-sentiment-analysis-frontend.onrender.com" # (if you still need the old one)
+    "https://darija-sentiment-analysis-frontend.onrender.com" 
 ])
 
 H5_FILE_PATH = r'sentiment_cnn_model.h5'
